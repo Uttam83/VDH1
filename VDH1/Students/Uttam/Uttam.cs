@@ -10,6 +10,6 @@ namespace VDH1.Students.Uttam
     {/// code comments
 
 
-        
+        public string Fullname { get => "Uttam Uprety"; }
     }
 }
