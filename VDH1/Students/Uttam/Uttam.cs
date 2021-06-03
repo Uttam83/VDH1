@@ -8,6 +8,6 @@ namespace VDH1.Students.Uttam
 {
     class Uttam
     {
-        public string  Fullname { set => Fullname = "Uttam U."; }
+        public string FullName { get; set; }
     }
 }
